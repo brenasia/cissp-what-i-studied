@@ -1,3 +1,5 @@
+NEEDS TO BE UPDATED :) This is what resources I pulled from but I have to update with what I actually used! 
+-----
 **Youtube Series**
 - [Destination Certification - CISSP MindMaps](https://www.youtube.com/playlist?list=PLZKdGEfEyJhLd-pJhAD7dNbJyUgpqI4pu) Youtube
 - [Pete Zerger - CISSP Exam Cram Full Course (All 8 Domains)](https://www.youtube.com/watch?v=_nyZhYnCNLA) Youtube
